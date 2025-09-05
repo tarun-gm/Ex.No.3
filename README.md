@@ -1,45 +1,115 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting  
+---
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+# EXPERIMENT – 3: Scenario-Based Report Development Using Diverse Prompting Approaches
 
+### Register No.: 2122232301XX
 
-Main Objectives:
+### Date: 05.09.2025
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+---
 
-•	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
-•	Sensors for real-time monitoring of equipment performance.
-•	Predictive maintenance alerts to anticipate equipment failures.
-•	Energy usage optimization by automating the switching of machines on/off based on demand.
-•	Cloud-based dashboards for remote monitoring and control of machinery.
+## Aim:
 
-Persona and Context Prompts:
+To develop an AI-driven customer support assistant that can effectively address **troubleshooting requests, order-related queries, and general FAQs**. The chatbot should maintain a natural, conversational style and handle multiple user contexts. In this experiment, **Straightforward Prompts, Tabular Format Prompting, and Preceding Question Prompting** are applied to demonstrate their impact on chatbot responses.
 
-•	Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context:
-•	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
-•	The system should convey reliability and ease of use, with minimal training required for operators.
+---
 
-### Conclusion
-Result: The various types of Prompts are executed successfully with generated the report.
+## Apparatus/Tools Required:
 
+* AI text generation system (e.g., ChatGPT, Gemini, Claude)
+* Spreadsheet/Document software for organizing prompts and results
+* Internet connectivity for testing interactions
 
+---
 
+## Theory:
 
-# Result: Thus the Prompts were exected succcessfully.
+Prompt engineering involves formulating queries in a structured way to guide AI models towards accurate and user-friendly outputs. Different prompting strategies can drastically change the effectiveness of chatbot responses.
 
+1. **Straightforward Prompting**
+
+   * Direct, concise commands or questions.
+   * Best suited for short answers and fact-based queries.
+
+2. **Tabular Format Prompting**
+
+   * Asks the model to present results in structured tables.
+   * Helps in displaying step-by-step guides, comparisons, or multi-item information.
+
+3. **Preceding Question Prompting**
+
+   * Builds on the previous query, creating continuity.
+   * Useful for **human-like, context-aware conversations**.
+
+By applying these prompting methods, the chatbot becomes adaptable for varied customer support scenarios.
+
+---
+
+## Experiment Procedure:
+
+We tested **three typical customer queries** using all three prompting techniques. Each interaction was recorded and analyzed.
+
+---
+
+### Scenario 1: Product Troubleshooting
+
+* **Straightforward Prompt Example:**
+  *“How do I fix if my smart vacuum cleaner is not charging?”*
+
+* **Tabular Prompt Example:**
+  *“List possible causes and fixes for a vacuum cleaner that won’t charge in a table.”*
+
+* **Preceding Question Prompt Example:**
+  *Q1: “My vacuum isn’t charging.”*
+  *Q2: “It shows a red blinking light, what does that mean?”*
+
+---
+
+### Scenario 2: Order Tracking
+
+* **Straightforward Prompt Example:**
+  *“Where is my order #24567 placed on 1st September?”*
+
+* **Tabular Prompt Example:**
+  *“Show the shipping stages of my order in table format (Ordered, Packed, Shipped, Out for delivery).”*
+
+* **Preceding Question Prompt Example:**
+  *Q1: “Track order #24567.”*
+  *Q2: “It says ‘in transit.’ Can you tell me when it will arrive?”*
+
+---
+
+### Scenario 3: General Inquiry
+
+* **Straightforward Prompt Example:**
+  *“What is your customer service helpline number?”*
+
+* **Tabular Prompt Example:**
+  *“Provide a table listing working hours, helpline numbers, and email IDs for support.”*
+
+* **Preceding Question Prompt Example:**
+  *Q1: “Do you have weekend support?”*
+  *Q2: “Okay, then how can I contact you on Sunday?”*
+
+---
+
+## Observations & Evaluation:
+
+* **Straightforward Prompting** → Best for quick queries like contact numbers or order IDs.
+* **Tabular Prompting** → Extremely useful for troubleshooting steps or multiple options, as it avoids confusion.
+* **Preceding Question Prompting** → Gave the most natural, continuous conversation flow. Customers feel like they are chatting with a real agent.
+
+---
+
+## Conclusion:
+
+By employing **Straightforward, Tabular, and Preceding Question Prompting**, the chatbot could handle a variety of customer needs smoothly. Each prompting style enhanced a different aspect of interaction — speed, clarity, or conversational flow — making the chatbot versatile and customer-friendly.
+
+---
+
+## Result:
+
+Thus, the experiment was successfully carried out, and the chatbot responses improved significantly with diverse prompting strategies. The system demonstrated the ability to assist customers in **troubleshooting, tracking orders, and handling general inquiries** effectively.
+
+---
